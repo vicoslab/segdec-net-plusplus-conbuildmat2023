@@ -1,5 +1,5 @@
 # SegDecNet++ for concrete crack segmentation 
-Official PyTorch implementation for ["Automated detection and segmentation of cracks in concrete surfaces using joined segmentation and classification deep neural network"](http://prints.vicos.si/publications/430) published in journal Construction and Building Materials 2023.
+An official PyTorch implementation for ["Automated detection and segmentation of cracks in concrete surfaces using joined segmentation and classification deep neural network"](http://prints.vicos.si/publications/430) published in journal Construction and Building Materials 2023.
 
 ![](res/intro_wide.png)
 
@@ -15,7 +15,7 @@ Code is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.
 
 
 ## Citation
-Please cite our [Construction and Building Materials 2023 paper](http://prints.vicos.si/publications/340) when using this code:
+Please cite our [Construction and Building Materials 2023 paper](http://prints.vicos.si/publications/430) when using this code:
 
 ```
 @article{Tabernik2023CONBUILDMAT,
